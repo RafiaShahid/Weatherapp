@@ -14,7 +14,8 @@ Steps to run :
 6. Open a new terminal: cd weather-app/frontend 
 7. npm install
 8. npm start
-9. Open http://localhost:3001
+9. "Important: If you run into an issue where the terminal says 'Port 3000 is already in use,' you will be prompted to confirm. Simply confirm, and the app will automatically start on port 3001. After that, you can access the frontend by visiting localhost:3001 in your browser to test everything."
+10. Open http://localhost:3001
 
 
 

@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "http://localhost:3000";
 
 function App() {
   const [city, setCity]       = useState("");

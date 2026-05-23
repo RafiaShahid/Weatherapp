@@ -30,7 +30,7 @@ npm run dev
 cd frontend
 npm install
 npm start
-Important: If you run into an issue where the terminal says 'Port 3000 is already in use,' you will be prompted to confirm. Simply confirm, and the app will automatically start on port 3001. After that, you can access the frontend by visiting localhost:3001 in your browser to test everything.
+
 
 5. Open the app
 Visit http://localhost:3001
